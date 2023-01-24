@@ -4,3 +4,5 @@
 
 I used this link to correct network between the host and virtual machine
 
+## Used to clear and reset the gitignore
+git rm -rf --cached .
